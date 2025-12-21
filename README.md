@@ -1,5 +1,5 @@
 ## What's up! 👋
-Welcome to **Oscar**'s GitHub show!(Actually nothing is here yet.😁)
+Welcome to **Oscar**'s GitHub show!
 
 ---
 
