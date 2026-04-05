@@ -1,5 +1,5 @@
-## What's up! 👋
-Welcome to **Oscar**'s GitHub show!
+## Hello World! 👋
+현재 수정중입니다 ㅎㅎ
 
 ---
 
