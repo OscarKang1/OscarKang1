@@ -2,9 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=4000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=750&lines=chzzk...+chzzk...+HELLO+WORLD%3F;THIS+IS+OSCAR!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p>
+<br>
+</p>
+
 <p align="center">
-  화면 속 텍스트에 불과했던 코드가 누군가의 세계에 영향을 끼치는 순간이 정말 짜릿합니다.<br>
-  이 매력적인 순간 때문에 개발자의 길을 선택한 강태은입니다.(영어 이름은 OSCAR KANG입니다.)<br>
+  화면 속 텍스트에 불과했던 코드가 <strong>누군가의 세계</strong>에 영향을 끼치는 순간이 정말 짜릿합니다.<br> <br>
+  이 매력적인 순간 때문에 개발자의 길을 선택한 <strong>강태은</strong>입니다.(영어 이름은 OSCAR KANG입니다.)<br> <br>
   현재는 FE 최적화와 트렌디하고 매끄러운 인터렉션에 집중하여 개발을 하고 있습니다😁
 </p>
 
